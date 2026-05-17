@@ -28,8 +28,8 @@ This project is ideal for **network automation beginners**, CCNA/CCNP labs, and 
 ---
 
 PyNetHost/
-├── change_hostname.py
-├── README.md
+├── change_hostname.py  
+├── README.md  
 
 
 ## 🛠️ Prerequisites
